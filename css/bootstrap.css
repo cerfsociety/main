@@ -1928,7 +1928,7 @@ output {
   padding: 6px 12px;
   font-size: 14px;
   line-height: 1.428571429;
-  color: #555555;
+  color: #c72a2a;
   vertical-align: middle;
   background-color: #ffffff;
   background-image: none;
@@ -2263,7 +2263,7 @@ textarea.input-lg {
 
 .btn:hover,
 .btn:focus {
-  color: #333333;
+  color: #a03a3a;
   text-decoration: none;
 }
 
@@ -2287,7 +2287,7 @@ fieldset[disabled] .btn {
 }
 
 .btn-default {
-  color: #333333;
+  color: #a12e2e;
   background-color: #ffffff;
   border-color: #cccccc;
 }
@@ -2297,7 +2297,7 @@ fieldset[disabled] .btn {
 .btn-default:active,
 .btn-default.active,
 .open .dropdown-toggle.btn-default {
-  color: #333333;
+  color: #a85252;
   background-color: #ebebeb;
   border-color: #adadad;
 }
@@ -3460,7 +3460,7 @@ input[type="button"].btn-block {
   height: 0;
   margin-left: 2px;
   vertical-align: middle;
-  border-top: 4px solid #000000;
+  border-top: 4px solid #d43d3d;
   border-right: 4px solid transparent;
   border-bottom: 0 dotted;
   border-left: 4px solid transparent;
@@ -3513,13 +3513,13 @@ input[type="button"].btn-block {
   clear: both;
   font-weight: normal;
   line-height: 1.428571429;
-  color: #333333;
+  color: #a04141;
   white-space: nowrap;
 }
 
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
-  color: #262626;
+  color: #b44a4a;
   text-decoration: none;
   background-color: #f5f5f5;
 }
@@ -3581,7 +3581,7 @@ input[type="button"].btn-block {
 .dropup .caret,
 .navbar-fixed-bottom .dropdown .caret {
   border-top: 0 dotted;
-  border-bottom: 4px solid #000000;
+  border-bottom: 4px solid #683434;
   content: "";
 }
 
@@ -3600,7 +3600,7 @@ input[type="button"].btn-block {
 }
 
 .btn-default .caret {
-  border-top-color: #333333;
+  border-top-color: #c76e6e;
 }
 
 .btn-primary .caret,
@@ -3612,7 +3612,7 @@ input[type="button"].btn-block {
 }
 
 .dropup .btn-default .caret {
-  border-bottom-color: #333333;
+  border-bottom-color: #813b3b;
 }
 
 .dropup .btn-primary .caret,
@@ -3964,7 +3964,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   font-size: 14px;
   font-weight: normal;
   line-height: 1;
-  color: #555555;
+  color: #7e4343;
   text-align: center;
   background-color: #eeeeee;
   border: 1px solid #cccccc;
@@ -4143,7 +4143,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #555555;
+  color: #c42020;
   cursor: default;
   background-color: #ffffff;
   border: 1px solid #dddddd;
@@ -4748,7 +4748,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  color: #555555;
+  color: #743232;
   background-color: #e7e7e7;
 }
 
@@ -4756,12 +4756,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a:hover .caret,
 .navbar-default .navbar-nav > .open > a:focus .caret {
   border-top-color: #555555;
-  border-bottom-color: #555555;
+  border-bottom-color: #973a3a;
 }
 
 .navbar-default .navbar-nav > .dropdown > a .caret {
   border-top-color: #777777;
-  border-bottom-color: #777777;
+  border-bottom-color: #c98383;
 }
 
 @media (max-width: 767px) {
@@ -4770,13 +4770,13 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #333333;
+    color: #ce3333;
     background-color: transparent;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #555555;
+    color: #993838;
     background-color: #e7e7e7;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
@@ -4796,8 +4796,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse {
-  background-color: #222222;
-  border-color: #080808;
+  background-color: #df4545;
+  border-color: #4d2727;
 }
 
 .navbar-inverse .navbar-brand {
@@ -4828,7 +4828,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #080808;
+  background-color: #923f3f;
 }
 
 .navbar-inverse .navbar-nav > .disabled > a,
@@ -4853,14 +4853,14 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
-  border-color: #101010;
+  border-color: #461f1f;
 }
 
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
   color: #ffffff;
-  background-color: #080808;
+  background-color: #7e3f3f;
 }
 
 .navbar-inverse .navbar-nav > .dropdown > a:hover .caret {
